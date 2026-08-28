@@ -2,31 +2,48 @@
 
 ### B.Tech CSE Student | Aspiring Full Stack Developer
 
-I’m a Computer Science student at **Lovely Professional University**, interested in building web applications, solving problems and learning new technologies along the way.
-
-I enjoy working on projects that help me understand how things actually work — from building the frontend to handling APIs, databases and backend logic.
+I like building things, solving problems, and learning by working on real projects.
+Currently exploring full-stack development, DSA, and AI-powered applications.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:** JavaScript • Java • Python • C++
-**Frontend:** HTML • CSS • React.js • Tailwind CSS
-**Backend:** Node.js • Express.js • REST APIs
-**Database:** MongoDB
-**Tools:** Git • GitHub • VS Code
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,java,python,cpp" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
+</p>
+
+### Backend & Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
 
 ---
 
 ## 🚀 Projects
 
-### 🎓 ProctorEd — AI-Proctored Exam Platform
+### ProctorEd — AI-Proctored Exam Platform
 
-A full-stack online examination platform with role-based access, authentication, automated evaluation and AI-based proctoring.
+A full-stack online examination platform with authentication, role-based access, automated evaluation and AI-based proctoring.
 
 **React.js • Node.js • Express.js • MongoDB • JWT**
 
-### 🤖 GitHub RAG Assistant
+### GitHub RAG Assistant
 
 An AI-powered assistant that helps users explore and understand GitHub repositories using RAG.
 
@@ -34,21 +51,49 @@ An AI-powered assistant that helps users explore and understand GitHub repositor
 
 ---
 
-## 🌱 Currently Learning
+## 📊 GitHub Stats
 
-* Data Structures & Algorithms
-* Full Stack Development
-* Backend Development
-* AI & LLM Applications
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sakshikumari01&show_icons=true&hide_border=true&rank_icon=github" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakshikumari01&hide_border=true" height="170"/>
+</p>
 
 ---
 
-## 🎯 What I'm Looking For
-
-I'm looking to improve my development skills by building real projects, collaborating with others and gaining practical experience.
-
-**Open to internships, collaborations and interesting projects.**
+## 📈 Contribution Graph
 
 <p align="center">
-  <i>Building, learning and improving — one project at a time.</i>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sakshikumari01&hide_border=true" />
+</p>
+
+---
+
+## 🎯 Currently
+
+* Improving my DSA skills
+* Building full-stack projects
+* Learning backend development
+* Exploring AI & LLM applications
+* Looking for opportunities to learn and collaborate
+
+---
+
+## 🤝 Let's Connect
+
+I'm always open to interesting projects, collaborations and internship opportunities.
+
+<p align="left">
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sakshikumari01&label=Profile%20Views&color=blue&style=flat-square" />
+</p>
+
+<p align="center">
+  <i>Keep building. Keep learning.</i>
 </p>
