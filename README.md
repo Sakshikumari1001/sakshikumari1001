@@ -1,38 +1,54 @@
-# Hi, I'm Sakshi 👋
+# Hey, I'm Sakshi 👋
 
-### Aspiring Full Stack Developer | B.Tech CSE Student
+### B.Tech CSE Student | Aspiring Full Stack Developer
 
-I'm a 3rd-year Computer Science student at Lovely Professional University, interested in building practical web applications and improving my problem-solving skills.
+I’m a Computer Science student at **Lovely Professional University**, interested in building web applications, solving problems and learning new technologies along the way.
 
-I enjoy working with **JavaScript, React.js, Node.js and MongoDB**, and I'm currently focusing on strengthening my **DSA and full-stack development** skills.
+I enjoy working on projects that help me understand how things actually work — from building the frontend to handling APIs, databases and backend logic.
 
-### 🚀 What I'm Working On
+---
 
-* Building full-stack web applications
-* Practicing DSA and problem solving
-* Learning backend development and APIs
-* Exploring AI-powered applications
+## 🛠️ Tech Stack
 
-### 🛠️ Tech Stack
-
-**Languages:** JavaScript, Java, Python, C++
-**Frontend:** HTML, CSS, JavaScript, React.js, Tailwind CSS
-**Backend:** Node.js, Express.js, REST APIs
+**Languages:** JavaScript • Java • Python • C++
+**Frontend:** HTML • CSS • React.js • Tailwind CSS
+**Backend:** Node.js • Express.js • REST APIs
 **Database:** MongoDB
-**Tools:** Git, GitHub, VS Code
+**Tools:** Git • GitHub • VS Code
 
-### 📌 Featured Projects
+---
 
-**ProctorEd — AI-Proctored Online Exam Platform**
-Full-stack online examination platform with role-based access, authentication, automated scoring and AI-based proctoring features.
+## 🚀 Projects
 
-**GitHub RAG Assistant**
-An AI-powered assistant that helps users understand and search information from GitHub repositories.
+### 🎓 ProctorEd — AI-Proctored Exam Platform
 
-### 📚 Currently Learning
+A full-stack online examination platform with role-based access, authentication, automated evaluation and AI-based proctoring.
 
-DSA • Full Stack Development • System Design Basics • AI/LLM Applications
+**React.js • Node.js • Express.js • MongoDB • JWT**
 
-### 🤝 Let's Connect
+### 🤖 GitHub RAG Assistant
 
-I'm always open to learning, collaborating on projects and exploring new opportunities.
+An AI-powered assistant that helps users explore and understand GitHub repositories using RAG.
+
+**React.js • Node.js • AI/LLM • RAG**
+
+---
+
+## 🌱 Currently Learning
+
+* Data Structures & Algorithms
+* Full Stack Development
+* Backend Development
+* AI & LLM Applications
+
+---
+
+## 🎯 What I'm Looking For
+
+I'm looking to improve my development skills by building real projects, collaborating with others and gaining practical experience.
+
+**Open to internships, collaborations and interesting projects.**
+
+<p align="center">
+  <i>Building, learning and improving — one project at a time.</i>
+</p>
