@@ -61,7 +61,6 @@ An AI-powered assistant that makes it easier to explore and understand GitHub re
 * Building full-stack projects
 * Learning better backend practices
 * Exploring AI & LLM applications
-* Contributing to open-source projects
 
 ---
 
