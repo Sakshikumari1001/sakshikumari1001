@@ -10,16 +10,16 @@ I'm currently focused on **full-stack development, problem solving, and AI-power
 
 ## 🧰 Tech Stack
 
-| Category      | Technologies                                    |
-| ------------- | ----------------------------------------------- |
-| **Languages** | 🟨 JavaScript • ☕ Java • 🐍 Python • 💻 C++     |
-| **Frontend**  | 🌐 HTML • 🎨 CSS • ⚡ React.js • 🌊 Tailwind CSS |
-| **Backend**   | 🟢 Node.js • 🚂 Express.js • 🔗 REST APIs       |
-| **Database**  | 🍃 MongoDB                                      |
-| **Tools**     | 🐙 Git • GitHub • 🧑‍💻 VS Code • 📮 Postman   . Vercel . Render |
+| Category               | Technologies                                                                                     |
+| ---------------------- | ------------------------------------------------------------------------------------------------ |
+| **Languages**          | 🟨 JavaScript • ☕ Java • 🐍 Python • 💻 C++                                                      |
+| **Frontend**           | 🌐 HTML • 🎨 CSS • ⚡ React.js • 🌊 Tailwind CSS                                                  |
+| **Backend**            | 🟢 Node.js • 🚂 Express.js • 🔗 REST APIs                                                        |
+| **Database**           | 🍃 MongoDB                                                                                       |
+| **Tools & Deployment** | 🐙 Git • GitHub • 🧑‍💻 VS Code • 📮 Postman • ▲ Vercel • 🚀 Render • 🚂 Railway • ☁️ Cloudinary |
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,java,python,cpp,html,css,react,tailwind,nodejs,express,mongodb,git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=js,java,python,cpp,html,css,react,tailwind,nodejs,express,mongodb,git,github,vscode,postman,vercel,render,railway,cloudinary" />
 </p>
 
 ---
