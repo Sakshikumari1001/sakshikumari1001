@@ -43,8 +43,8 @@ An AI-powered assistant that makes it easier to explore and understand GitHub re
 ## 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sakshikumari01&show_icons=true&hide_border=true&rank_icon=github" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakshikumari01&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sakshikumari1001&show_icons=true&hide_border=true&rank_icon=github" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakshikumari1001&hide_border=true" height="165"/>
 </p>
 
 ### 📈 Contribution Graph
